@@ -806,35 +806,27 @@ p {
     border: 1px solid #404bbf;
     fill: #f4f4fd;
 }
-.policy-text {
-color: #4D5AE5;
-text-decoration: underline;
-font-weight: 500;
+.policy-link {
+    color: #4D5AE5;
+    text-decoration: underline;
 }
 
  .modal-btn {  
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 16px; 32px;
+    border-radius: 4px;
+    padding: 16px 32px;
     margin: 0 auto;
-  
-      /*  align-self: center;
-        gap: 10px;
-        border-radius: 4px;
-        padding-bottom: 24px;      min-width: 169px;
-        height: 56px;
-        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);background: #4d5ae5;
-        font-family: Roboto, sans-serif;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.04em;
-        text-align: center;
-        color: #ffffff;
-        margin: 0 auto;
-        cursor: pointer;
-        transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-
+    width: 169px;
+    height: 56px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    background: #4d5ae5;
+    color: #ffffff;
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    font-size: 16px; 
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    text-align: center;
  }
-    */
